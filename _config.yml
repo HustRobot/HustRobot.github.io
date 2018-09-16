@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+#weibo_username:     
+#zhihu_username:     
+github_username:    hustrobot
+#twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -53,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Mr.Robot
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ ga_domain: https://hustrobot.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "say anything<br>随便说点什么吧"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -93,9 +93,9 @@ service-worker: true
 friends: [
     {
         title: "Sunnie's Blog",
-        href: "http://sunnieeee.github.io"
+        href: "https://sunnieeee.github.io"
     },{
         title: "William Yu`s Blog",
-        href: "https://www.williamyu.top/"
+        href: "http://williamyu.top/"
     }
 ]

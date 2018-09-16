@@ -9,4 +9,3 @@ Not finished yet...
 ## License
 
 - [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) - All blog posts
-- [MIT License](https://raw.github.com/yuyucong/yuyucong.github.io/master/LICENSE) - Code written by  [yizeng](https://github.com/yizeng/).
